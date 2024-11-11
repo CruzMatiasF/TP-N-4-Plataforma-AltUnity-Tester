@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltTester.AltTesterUnitySDK.Driver", "AltTester.AltTesterUnitySDK.Driver.csproj", "{6E9521F6-FB6B-5C52-9FC7-D2478EB6351B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltTester.AltTesterUnitySDK", "AltTester.AltTesterUnitySDK.csproj", "{725D08EB-A1F5-7D89-C2FA-8FD259DA36A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltTester.AltTesterUnitySDK.Editor", "AltTester.AltTesterUnitySDK.Editor.csproj", "{95B0D69C-0433-4F59-596A-FF3FBA65CE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E9521F6-FB6B-5C52-9FC7-D2478EB6351B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9521F6-FB6B-5C52-9FC7-D2478EB6351B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9521F6-FB6B-5C52-9FC7-D2478EB6351B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9521F6-FB6B-5C52-9FC7-D2478EB6351B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725D08EB-A1F5-7D89-C2FA-8FD259DA36A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725D08EB-A1F5-7D89-C2FA-8FD259DA36A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725D08EB-A1F5-7D89-C2FA-8FD259DA36A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725D08EB-A1F5-7D89-C2FA-8FD259DA36A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B0D69C-0433-4F59-596A-FF3FBA65CE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B0D69C-0433-4F59-596A-FF3FBA65CE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B0D69C-0433-4F59-596A-FF3FBA65CE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B0D69C-0433-4F59-596A-FF3FBA65CE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
